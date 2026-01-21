@@ -30,4 +30,8 @@ Retornando às opções iniciais do menu, se o usuário escolher a terceira opç
 
 <img width="397" height="133" alt="image" src="https://github.com/user-attachments/assets/ea1f51cf-9f10-4dae-b6bc-eddd582ee3a7" />
 
+Aqui os vídeos da apresentação: 
+
+https://youtu.be/q28iUQUDbtc 
+https://youtu.be/aP6K3P5qAfo
  
